@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there it is Wa.01 Github 👋
 
-<!--
-**wastu01/wastu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Recently Repository
 
-Here are some ideas to get you started:
+* [Python-Wordcloud](https://github.com/wastu01/Python-WordCloud)
+* [Discord-bot-python](https://github.com/wastu01/Discord-bot-python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skill I have learned
+
+* Python
+* Html / CSS
+* Adobe After effects
+* 3D Solidwork
+
+
+## My Social Media
+
+| ------ Platform ------ | ---------- Link --------    |   YA             |
+|:---------------------- |:-------------------------------------------- | -------------- |
+| Youtube                | [多多](https://www.youtube.com/@11305205219) | :tv:           |
+| Coderbridge            | [index](https://index.coderbridge.io)        | :snake:        |
+| Github                 | [wastu01](https://wastu01.github.io )        | 🐱             |
+| Medium                 | [🅜🅡.______.⓿➊  ](https://medium.com/mr-wang) | :writing_hand: |
+    
+    
+    
