@@ -2,6 +2,7 @@
 
 ## Recently Repository
 
+* [ChatGPT-API](https://github.com/wastu01/CHATGPT-API-PYTHON-SCRIPTS)
 * [Python-Wordcloud](https://github.com/wastu01/Python-WordCloud)
 * [Discord-bot-python](https://github.com/wastu01/Discord-bot-python)
 
