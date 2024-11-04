@@ -1,17 +1,13 @@
 ## Hi there it is Wa.01 Github 👋
 
-## Recently Repository
+## Most Stared Repository
 
-* [ChatGPT-API](https://github.com/wastu01/CHATGPT-API-PYTHON-SCRIPTS)
 * [Python-Wordcloud](https://github.com/wastu01/Python-WordCloud)
-* [Discord-bot-python](https://github.com/wastu01/Discord-bot-python)
 
 ## Skill I have learned
 
 * Python
 * Html / CSS
-* Adobe After effects
-* 3D Solidwork
 
 
 ## My Social Media
